@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<body style="background-color:powderblue;">
+<head>
+<title>Tweet Review</title>
+<link rel="stylesheet" href="D:/ML_Project/style.css">
+</head>
+<body>
+<h2>Please enter your tweet:</h2>
+<label for="Tweet">Tweet:</label>
+   <form method=post action="/results">
+<dl>
+{{ form.tweet }}
+</dl>
+<div>
+<input type=submit value='Submit tweet' name='submit_btn'>
+</div>
+</form>
+    
+</body>
+</html>
