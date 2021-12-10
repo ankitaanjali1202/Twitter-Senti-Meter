@@ -7,9 +7,13 @@ The proposed model is capable to detect hate or non-hate content automatically.T
 Languages we speak and write are made up of several words often derived from one another and can contain words which don’t add meaning or context. In order to clean the data, we implemented 5 approaches.
 
 -Stop Words Removal
+
 -Greek Characters
+
 -Slang Words
+
 -Stemming
+
 -Lemmatization
 
 4. Splitting our data in the ratio of 93:7 for training and testing.
