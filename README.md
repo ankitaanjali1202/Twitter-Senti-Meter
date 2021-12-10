@@ -24,3 +24,6 @@ Here we are using the LogisticRegression model because it’s easy to interpret 
 of probability of the output. 
 
 After training the model shows accuracy of 97%.
+
+
+This project uses Flask as a framework for the frontend
