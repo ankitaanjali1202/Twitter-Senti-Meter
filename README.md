@@ -1,8 +1,8 @@
 <a href="https://github.com/atharvkarajgi">
-  <img src="https://github.com/atharvkarajgi.png?size=50">
+  <img src="https://github.com/atharvkarajgi.png?size=80">
 </a>
 <a href="https://github.com/msr-sajid">
-  <img src="https://github.com/msr-sajid.png?size=50">
+  <img src="https://github.com/msr-sajid.png?size=80">
 </a>
 <a href="https://github.com/ankitaanjali1202">
   <img src="https://github.com/ankitaanjali1202.png?size=50">
