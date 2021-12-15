@@ -1,9 +1,15 @@
-<a href = "https://github.com/ankitaanjali1202/Twitter-Senti-Meter/contributors">
-  <img src = "https://contrib.rocks/image?repo =  ankitaanjali1202/Twitter-Senti-Meter"/>
+<a href="https://github.com/atharvkarajgi">
+  <img src="https://github.com/atharvkarajgi.png?size=50">
 </a>
-
-
-
+<a href="https://github.com/msr-sajid">
+  <img src="https://github.com/msr-sajid.png?size=50">
+</a>
+<a href="https://github.com/ankitaanjali1202">
+  <img src="https://github.com/ankitaanjali1202.png?size=50">
+</a>
+<a href="https://github.com/AmanKumar666">
+  <img src="https://github.com/AmanKumar666.png?size=50">
+</a>
 
 
 
