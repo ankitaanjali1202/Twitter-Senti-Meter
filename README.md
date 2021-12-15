@@ -1,3 +1,5 @@
+CONTRIBUTORS
+
 <a href="https://github.com/atharvkarajgi">
   <img src="https://github.com/atharvkarajgi.png?size=60">
 </a>
