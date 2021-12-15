@@ -1,14 +1,14 @@
 <a href="https://github.com/atharvkarajgi">
-  <img src="https://github.com/atharvkarajgi.png?size=80">
+  <img src="https://github.com/atharvkarajgi.png?size=60">
 </a>
 <a href="https://github.com/msr-sajid">
-  <img src="https://github.com/msr-sajid.png?size=80">
+  <img src="https://github.com/msr-sajid.png?size=60">
 </a>
 <a href="https://github.com/ankitaanjali1202">
-  <img src="https://github.com/ankitaanjali1202.png?size=50">
+  <img src="https://github.com/ankitaanjali1202.png?size=40">
 </a>
 <a href="https://github.com/AmanKumar666">
-  <img src="https://github.com/AmanKumar666.png?size=50">
+  <img src="https://github.com/AmanKumar666.png?size=40">
 </a>
 
 
