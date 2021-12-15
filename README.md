@@ -1,5 +1,5 @@
 <a href = "https://github.com/ankitaanjali1202/Twitter-Senti-Meter/contributors">
-  <img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+  <img src = "https://contrib.rocks/image?repo =  ankitaanjali1202/Twitter-Senti-Meter"/>
 </a>
 
 
