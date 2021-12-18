@@ -45,3 +45,7 @@ After training the model shows accuracy of 97%.
 
 
 This project uses Flask as a framework for the frontend
+
+<br>
+<h4 align="left">Show ❤️ By Starring Our <a href='https://github.com/ankitaanjali1202/Twitter-Senti-Meter?tab=repositories'><img align='center'  height="22" src="https://img.shields.io/badge/Repos!😊-lightpink.svg?&style=for-the-badge&logo=msr-sajid&logoColor=blue" /></a></h4>
+<br>
