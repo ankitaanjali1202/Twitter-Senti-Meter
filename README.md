@@ -7,7 +7,7 @@ CONTRIBUTORS
   <img src="https://github.com/msr-sajid.png?size=60">
 </a>
 <a href="https://github.com/ankitaanjali1202">
-  <img src="https://github.com/ankitaanjali1202.png?size=40">
+  <img src="https://github.com/ankitaanjali1202.png?size=60">
 </a>
 <a href="https://github.com/AmanKumar666">
   <img src="https://github.com/AmanKumar666.png?size=40">
